@@ -22,6 +22,6 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 - Where are Rockbuster customers with a high lifetime value based?
 - Do sales ﬁgures vary between geographic regions?
 ---
-**Data**
+**Repo**
 
-Rockbuster [Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) 
+Rockbuster [Repo](https://github.com/senoel123/SQL_Rockbuster_SEN) 
